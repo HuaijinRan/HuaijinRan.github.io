@@ -1,0 +1,17 @@
+# Huaijin Ran — Academic Homepage
+
+Responsive bilingual academic homepage for GitHub Pages. It uses plain HTML, CSS and JavaScript; no build step is required.
+
+## Deploy
+
+Copy every file in this folder to the root of `HuaijinRan.github.io`, commit, and push to the GitHub Pages branch (normally `main`). Keep `.nojekyll` in the root.
+
+## Edit
+
+- Profile, education and section copy: `index.html` plus the `T` translation data in `script.js`.
+- Publications: the `publications` array near the top of `script.js`.
+- Design and responsive layout: `styles.css`.
+- CV: replace `Huaijin_Ran_CV.pdf` using the same filename.
+- Social preview: replace `og.png` with a 1200 × 630 image.
+
+The three institutional graphics under `assets/` are custom, unofficial affiliation marks rather than official university logos.

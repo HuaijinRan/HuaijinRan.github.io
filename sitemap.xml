@@ -1,0 +1,17 @@
+{
+  "name": "Huaijin Ran | Academic Homepage",
+  "short_name": "Huaijin Ran",
+  "description": "Research in software security, program analysis and trustworthy AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0b5276",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
